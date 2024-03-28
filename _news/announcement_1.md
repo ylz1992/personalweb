@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Looking for research opportunity in ML/AI groups :smile:
+Looking for research opportunity in ML/DL starting from Jun 2024 to April 2025 . RA or Volunteer work would be fine. I'm ready to work! :smile:

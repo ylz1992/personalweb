@@ -15,6 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, this is Alan. I'm currently a MSCS student at georgia tech, specializing in computing systems and machine learning. My primary interests lie in ML and AI, and eager to conduct research in these area. Before joining GT, I was a structural engineer in complex building designs, and main designer for National Alpha Sking Center for 2022 Beijing Winter Olympics. And befor that, I got MS in geotechnical engineering from University of Florida, and BS of science from Beijing Jiaotong University. 
+Hey there! I'm Alan, and this is my little corner of the internet. I'm currently a **MSCS** student at **georgia tech**, diving into the world of Machine Learning and Computing Systems. Currently seeking exciting research opportunties in tech, especially with a focus on ML and AI, as I gear up for PhD adventures. Got any tips or leads? Let's chat!
+
+Before joining GT, I was out there making sure buildings didn't fall down as a structural engineer. If you're curious about my past adventures in engineering, feel free to take a sneak peek [right here](../_posts/2024-03-26-MLProject.md). And befor that, I got MS in Geotechnical Engineering from the University of Florida, and BS from Beijing Jiaotong University. 
 
 
