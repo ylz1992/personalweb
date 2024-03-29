@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Projects in Structural Design (2017~2023)
-description: During working for China Architecture Design & Research Group
+title: Portfolio Highlights during 2017~2023
+description: China Architecture Design & Research Group
 img: assets/img/track.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-This is my design works during 2017-2023 while I work in [China Architecture Design & Research Group](https://cadg.com.cn/en/about/)
+This is my design works during 2017-2023 in [China Architecture Design & Research Group](https://cadg.com.cn/en/about/).
 
 
 <div class="row">
@@ -17,7 +17,8 @@ This is my design works during 2017-2023 while I work in [China Architecture Des
     </div>
 </div>
 <div class="caption">
-    National Sliding Center. [国家雪车雪橇中心](https://www.thepaper.cn/newsDetail_forward_16791169)
+    Co-designer: National Sliding Center. <a href = "https://www.thepaper.cn/newsDetail_forward_16791169">国家雪车雪橇中心</a>
+    
 </div>
 
 <div class="row">
@@ -26,7 +27,7 @@ This is my design works during 2017-2023 while I work in [China Architecture Des
     </div>
 </div>
 <div class="caption">
-    National Alpine Skiing Centre, Middle Platform
+    Designer: National Alpine Skiing Centre, Middle Platform
 </div>
 
 <div class="row">
@@ -35,7 +36,7 @@ This is my design works during 2017-2023 while I work in [China Architecture Des
     </div>
 </div>
 <div class="caption">
-    Sketch for 2022 Beijing Olympic Yanqing Zong, by [Xinggang Li](https://en.wikipedia.org/wiki/Li_Xinggang). 
+    Sketch for 2022 Beijing Olympic Yanqing Zong, by <a href="https://en.wikipedia.org/wiki/Li_Xinggang">Xinggang Li</a>. 
 </div>
 
 <div class="row">
@@ -44,7 +45,7 @@ This is my design works during 2017-2023 while I work in [China Architecture Des
     </div>
 </div>
 <div class="caption">
-    Industrial construction (No.1 pumping station) for 2022 Beijing Olympics.
+    Designer: Industrial Construction (No.1 Pumping Station) for 2022 Beijing Olympics.
 </div>
 
 <div class="row">
@@ -53,7 +54,7 @@ This is my design works during 2017-2023 while I work in [China Architecture Des
     </div>
 </div>
 <div class="caption">
-    Industrial construction (N0.2 pumping station) for 2022 Beijing Olympics.
+    Designer: Industrial construction (N0.2 pumping station) for 2022 Beijing Olympics.
 </div>
 
 <div class="row">
@@ -62,7 +63,7 @@ This is my design works during 2017-2023 while I work in [China Architecture Des
     </div>
 </div>
 <div class="caption">
-    Haerbin Snow Theater
+    Designer: Haerbin Snow Theater(Really popular during 23~24 winter)
 </div>
 
 <div class="row">
@@ -71,7 +72,7 @@ This is my design works during 2017-2023 while I work in [China Architecture Des
     </div>
 </div>
 <div class="caption">
-    Jinan Yaoqiang Airport. 
+    Co-designer:Jinan Yaoqiang Airport. 
 </div>
 
 <div class="row">
@@ -82,4 +83,11 @@ This is my design works during 2017-2023 while I work in [China Architecture Des
 <div class="caption">
    Conference Hall for Central School of Communist Youth League of China 
 </div>
+
+
+## More
+- Chinese Embassy in Malta
+- Kunshan City Capital Tower
+- Weihai Civic Tower
+- Lanzhou Jinmao Tower
 

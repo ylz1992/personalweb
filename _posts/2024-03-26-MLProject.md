@@ -1,12 +1,12 @@
 ---
 layout: post
-title: check out my ML project
+title: Machine Learning project
 date: 2024-03-26
 description: ML class project
 tags: ML
 categories: class
 ---
 
-## Check my ML project web 
+## gorup work website 
 
-[**This is the link**](https://ylz1992.github.io/MLProject/)
+[**hit here**](https://ylz1992.github.io/MLProject/)
