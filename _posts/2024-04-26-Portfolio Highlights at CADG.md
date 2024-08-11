@@ -1,13 +1,11 @@
 ---
-layout: page
-title: Portfolio Highlights during 2017~2023
-description: China Architecture Design & Research Group
-img: assets/img/track.jpg
-importance: 1
-category: work
-related_publications: false
+layout: post
+title: Portfolio Highlights at CADG
+date: 2024-01-26
+description: Work
+tags: Personal
+categories: class
 ---
-
 This is my design works during 2017-2023 in [China Architecture Design & Research Group](https://cadg.com.cn/en/about/).
 
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>. MSCS Student
 
 profile:
   align: right
@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey there! I'm Alan, and this is my little corner of the internet. I'm currently a **MSCS** student at **georgia tech**, diving into the world of Machine Learning and Computing Systems. Currently seeking exciting research opportunties, especially with a focus on ML and AI, as I gear up for PhD adventures. 
+Hi, I'm Alan, a **Master's Student** in computer science at [Georgia Tech](https://www.gatech.edu/), with a keen interest in AI, paticularly in Deep Learning. I'm currently work as a Research Intern at [Efficient And Intelligent Computing Lab](https://eiclab.scs.gatech.edu/), where my work focuses on adversarial attacks and the activation patterns in LLMs. I also have a board interest in learning algorithms. 
 
-Before joining GT, I was out there making sure buildings didn't fall down as a structural engineer. If you're curious about my past adventures in engineering, feel free to take a sneak peek [right here](https://ylz1992.github.io/personalweb/projects/Structural_Design/). And befor that, I got MS in Geotechnical Engineering from the University of Florida, and BS from Beijing Jiaotong University. 
+Before diving into the world of AI, I worked as a structural engineer and here's some of [my work](/personalweb/blog/2024/Portfolio-Highlights-at-CADG/). Outside of academics and research, I enjoy studying Spanish, reading poetry, and playing tennis.
 
 
