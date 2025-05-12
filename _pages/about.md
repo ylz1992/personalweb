@@ -19,6 +19,5 @@ Hi, I'm Alan, a Master's Student in computer science at [Georgia Tech](https://w
 
 Previously, I worked as a R&D engineer; You can find [highlights of my designs](/personalweb/blog/2024/Portfolio-Highlights-at-CADG/). Outside research, I enjoy studying Spanish, reading poetry, and playing tennis.
 
-**I am seeking a PhD position for Fall 2025 to further my work in these fields. Feel free to contact if you're interested. I'd be delighted to discuss further research opportunities in an interview**
 
 Email: zhouyilun1992@gmail.com
