@@ -15,9 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Alan, a Master's Student in computer science at [Georgia Tech](https://www.gatech.edu/), currently work as a RA at [Efficient And Intelligent Computing Lab](https://eiclab.scs.gatech.edu/). My research surrounds Trustworthy AI and ML Safety, with current projects exploring robustness and jailbreak methods in T2I models and VLMs. I'm interested in developing red-teaming methodologies to enhance reliability of LLM/VLMs.
+Hi, I'm Alan, a PhD student in the [Machine Learning Group](https://www.cs.tulane.edu/~jhamm3/) at Tulane University, advised by with Prof. Jihun Hamm. My research interests broadly span ML privacy and safety.
 
-Previously, I worked as a R&D engineer; You can find [highlights of my designs](/personalweb/blog/2024/Portfolio-Highlights-at-CADG/). Outside research, I enjoy studying Spanish, reading poetry, and playing tennis.
+Previously, I did my Master's at [Georgia Tech](https://www.gatech.edu/) and University of Florida, and my undergraduate degree at Beijing Jiaotong University. 
 
-
-Email: zhouyilun1992@gmail.com
+I used to worked as a R&D engineer; You can find [highlights of my designs](/personalweb/blog/2024/Portfolio-Highlights-at-CADG/). Outside research, I enjoy studying Spanish, reading poetry, and playing tennis.
